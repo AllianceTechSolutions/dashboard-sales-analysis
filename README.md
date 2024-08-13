@@ -15,7 +15,7 @@ O desafio proposto consistiu em:
    - **Mapa 2:** Soma de lucro (profit) por país.
    - **Gráfico de Pizza:** Lucro por segmento.
 
-![Página do Desafio](imagens/desafio.png)  
+![Página do Desafio](https://raw.githubusercontent.com/AllianceTechSolutions/dashboard-sales-analysis/62160837f9518548cae824f49514550ae7070cc5/Imagens/Capturar03.PNG)  
 
 
 Para completar o desafio, eu também:
