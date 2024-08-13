@@ -2,7 +2,7 @@
 
 Olá! Bem-vindo ao meu repositório para o desafio do curso **Sysvision - Data Analytics com Power BI**. Neste projeto, eu desenvolvi uma terceira página no dashboard de vendas, focando na distribuição de lucro, vendas e unidades vendidas por país e segmento. 
 
-![Visão Geral do Dashboard](imagens/dashboard-preview.png)  
+![Visão Geral do Dashboard](https://github.com/AllianceTechSolutions/dashboard-sales-analysis/blob/main/Imagens/analise%20de%20dados.jpg?raw=true)  
 
 
 ## Descrição do Desafio
